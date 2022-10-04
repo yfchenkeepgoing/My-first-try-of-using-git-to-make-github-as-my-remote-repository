@@ -1,2 +1,6 @@
-#MyApp
-This is my app
+# My first try of using git to make github as my remote repository
+Thanks to the excellent video:Git & GitHub Crash Course For Beginners made by Traversy Media on Youtube, I have learned the basic operation of git & github.
+To make it more convenient for you to learn git & github, I took some notes according to the lesson, and I will attach the pdf version of the notes in this file. Hopefully everyone can make use of the powerful tool of git & github.
+PS: the web links of the course Git & GitHub Crash Course For Beginners is: https://www.youtube.com/watch?v=SWYqp7iY_Tc&t=1402s
+
+this is the first formal repository of my mine. I will share more useful knowledge, such as data structure, my experience of preparing for the IELTS exam and studying in a Chinese university. I would also share my points of view towards the latest news if I am available. I will use both English and Chinese to write my files, but it may take a long time for me to translate all of my contents to both languages. However, I will always keep going.
